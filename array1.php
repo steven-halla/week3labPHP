@@ -1,6 +1,6 @@
 <?php
-$languages = array("PHP", "JavaScript", "Python");
-echo "I program with " . $languages[0] . ", " . $languages[1] . " and " .
-    $languages[2] . ".";
+$courses = array("CIS243", "CIS245", "CIS246");
+echo "I study " . $courses[0] . ", " . $courses[1] . " and " .
+    $courses[2] . ".";
 ?>
 
